@@ -3,4 +3,4 @@ function functionName(val) {
 	alert(arguments.callee.name)
 }
 
-AccioJob()
+functionName()
